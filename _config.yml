@@ -1,7 +1,7 @@
 name: mitch
 favicon: null
-layout_spectrum: 0.8656462572980672
-typography_spectrum: 0.4500489521306008
+layout_spectrum: 0.6314
+typography_spectrum: 0.41811
 cta:
   domain: null
   bucket: null
@@ -15,9 +15,14 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
-  brandStrength: 0.41294418345205486
-  lightness: 0.40661191451363266
-  saturation: 0.1964436660055071
-  rhythmicContrast: 0.7157830158248544
+  brandColors:
+    - '#6b631c'
+    - '#1d1918'
+    - '#fefa8d'
+    - '#bd9a2b'
+    - '#a0afc7'
+  brandStrength: 0.9375
+  lightness: 0.4375
+  saturation: 0.375
+  rhythmicContrast: 0.75
 purpose: []
