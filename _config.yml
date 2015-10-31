@@ -1,6 +1,6 @@
 name: mitch
 favicon: null
-layout_spectrum: 0.6314
+layout_spectrum: 0.46638
 typography_spectrum: 0.41811
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#fefa8d'
     - '#bd9a2b'
     - '#a0afc7'
-  brandStrength: 0.9375
+  brandStrength: 0.5
   lightness: 0.4375
   saturation: 0.375
   rhythmicContrast: 0.75
